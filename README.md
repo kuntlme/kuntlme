@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning web dev and other tech<br>🤝 Excited to connect<br>💬 Lets grow together<br>⚡ Fun fact - Free learning is fun
+🌱 I’m currently learning web dev and other stuff<br>🤝 Excited to connect<br>💬 Lets grow together<br>⚡ Fun fact - Free learning is fun
 
 
 # 💻 Tech Stack:
